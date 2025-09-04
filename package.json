@@ -1,0 +1,16 @@
+{
+  "name": "airtable-table-creator",
+  "version": "1.0.0",
+  "description": "Creates a Tasks table in Airtable Growth AI base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
